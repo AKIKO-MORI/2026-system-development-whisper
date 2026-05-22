@@ -4,6 +4,7 @@
     </IfModule>
 
     RewriteEngine On
+    RewriteBase /ecc/ttsujikawa/
 
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
