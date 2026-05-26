@@ -4,7 +4,7 @@
     </IfModule>
 
     RewriteEngine On
-    RewriteBase /ecc/ttsujikawa/
+    RewriteBase /ecc/mori_laravel/
 
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
